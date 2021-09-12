@@ -1,0 +1,15 @@
+#superior{
+    background-color: rgb(189, 182, 182);
+    width: 100vw;
+    height: 20vh;
+    overflow: hidden;
+
+}
+#logo{
+    width: 5%;
+    float: left;
+}
+#divlogin{
+    float: right;
+}
+
