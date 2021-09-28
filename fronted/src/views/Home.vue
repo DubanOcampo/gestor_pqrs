@@ -7,9 +7,11 @@
       <Mensaje />
     </div>
     <div>
-      <div >
-      <Cards v-for="(item, i) in elements" :key="i" class=" float" max-width="500"/>
-    </div>
+      <div v-for="(item, i) in elements" :key="i" >
+        <div class="float:left">
+          <Cards class="accordion-body "  ></Cards>
+        </div>
+      </div>
     </div>
     
   </div>
