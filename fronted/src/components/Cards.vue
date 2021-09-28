@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-card max-width="20%">
+    <v-card max-width="20%"  class="spacing-playground pa-6" >
       <v-card-text>
         <div>Incidencia #X</div>
         <p class="text-h4 text--primary">Tiempo Estimado: xxx</p>
